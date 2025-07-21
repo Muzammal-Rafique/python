@@ -1,0 +1,3 @@
+Name: Muzamil, Age: 25, Marks: English: 45.0, Math: 65.0, Science: 55.0, Average: 55.00
+Name: Asad, Age: 24, Marks: English: 55.0, Math: 68.0, Science: 54.0, Average: 59.00
+Name: Faisal, Age: 25, Marks: English: 65.0, Math: 56.0, Science: 49.0, Average: 56.67
