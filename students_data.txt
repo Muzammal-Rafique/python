@@ -1,0 +1,2 @@
+Name: Muzamil, English: 45, Math: 60, Science: 53, Average: 52.67
+Name: Mehroz, English: 55, Math: 48, Science: 63, Average: 55.33
