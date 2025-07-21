@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Muzammal",
+        "age": 25,
+        "marks": {
+            "English": 45.0,
+            "Math": 65.0,
+            "Science": 48.0
+        }
+    },
+    {
+        "name": "Faisal",
+        "age": 24,
+        "marks": {
+            "English": 66.0,
+            "Math": 22.0,
+            "Science": 72.0
+        }
+    },
+    {
+        "name": "Mehroz",
+        "age": 25,
+        "marks": {
+            "English": 45.0,
+            "Math": 63.0,
+            "Science": 49.0
+        }
+    }
+]
