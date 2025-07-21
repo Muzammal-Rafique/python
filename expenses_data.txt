@@ -1,0 +1,2 @@
+Description: Buy Laptop, Amount: 45000.00, Date: 2025-07-20
+Description: Buy Bike, Amount: 65000.00, Date: 2025-06-20
