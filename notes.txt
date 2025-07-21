@@ -1,0 +1,9 @@
+Lecture 8: File Handling in Python
+1. Opening and Closing Files
+2. Reading and Writing Files
+3. Appending to Files
+
+ Towmarrow Learning:
+4. File Modes
+5. Working with File Paths
+6. Exception Handling in File Operations

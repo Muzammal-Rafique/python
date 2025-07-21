@@ -1,0 +1,3 @@
+Name: Ali, Age: 18, Marks: 85
+Name: Sara, Age: 19, Marks: 90
+Name: Ahmed, Age: 17, Marks: 80
