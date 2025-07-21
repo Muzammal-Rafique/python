@@ -1,0 +1,3 @@
+Name: Muzmail, English: 45.0, Math: 43.0, Science: 36.0, Average: 41.33
+Name: Asad, English: 48.0, Math: 75.0, Science: 64.0, Average: 62.33
+Name: Faisal, English: 45.0, Math: 49.0, Science: 42.0, Average: 45.33
